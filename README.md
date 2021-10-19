@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris @crisner1978
-- 👀 I’m interested in coding. 
-- 🌱 I’m currently a student in a Full Stack Developer Program. 
+- 👀 I’m interested in React JS, Redux, MERN stack and serverless stacks.
+- 🌱 Front End focused Devoloper with Back End training. 
 - 💞️ I’m looking to collaborate on ideas for projects. 
 - 📫 How to reach me ... crisner.prsvr@gmail.com
 
