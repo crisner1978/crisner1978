@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris @crisner1978
-- 👀 I’m interested in React JS, Redux, MERN stack and serverless stacks.
+- 👀 I’m interested in React JS, Next JS.
 - 🌱 Front End focused Devoloper with Back End training. 
 - 💞️ I’m looking to collaborate on ideas for projects. 
 - 📫 How to reach me ... crisner.prsvr@gmail.com
